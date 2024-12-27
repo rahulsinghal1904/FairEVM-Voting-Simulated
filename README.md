@@ -1,1 +1,1 @@
-# FairEVM-Voting-Simulated
+# Fast Vote
